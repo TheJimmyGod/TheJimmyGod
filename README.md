@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7C42F7&background=FFFFFF00&random=false&width=435&lines=Hello%2C+my+name+is+Jimmy!;My+dream+is...;The+best+programmer!)](https://git.io/typing-svg)
 <div align="center">
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2311E3AC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/TheJimmyGod)
 
 ### Github Stats:
 
