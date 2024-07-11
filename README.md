@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=The%20JimmyGod&fontSize=90)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7C42F7&background=FFFFFF00&random=false&width=435&lines=Hello%2C+my+name+is+Jimmy!;My+dream+is...;The+best+programmer!)](https://git.io/typing-svg)
 ### Bravo everyone, I am JimmyGod Junior Game developer 👋
 
 ### Github Stats:
